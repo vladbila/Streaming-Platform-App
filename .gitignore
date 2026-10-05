@@ -1,0 +1,9 @@
+
+.idea/
+cmake-build-*/
+build/
+
+*.exe
+*.out
+system_log.txt
+backup_history.txt
